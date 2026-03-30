@@ -1,0 +1,12 @@
+# Archivos y carpetas a ignorar por git
+node_modules/
+.DS_Store
+*.log
+.env
+# Ignorar imágenes temporales o de pruebas
+*.tmp
+*.bak
+# Ignorar carpetas de sistema
+Thumbs.db
+# Ignorar archivos de VSCode
+.vscode/
